@@ -9,4 +9,4 @@ Execute o arquivo run.py, com a flag -s indicando o arquivo a ser cifrado e -o o
 python3 run.py -s source_file.txt -o source_file_c.txt
 ```
 
-Por problemas na implementação, não é possível decifrar mensagens longas.
+Por problemas na implementação, não é possível decifrar mensagens longas (tamanho máximo desconhecido).
